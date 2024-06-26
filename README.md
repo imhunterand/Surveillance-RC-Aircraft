@@ -40,8 +40,8 @@ Pesawat RC otomatis untuk pengintaian dengan fitur canggih seperti navigasi GPS,
 - `avoidObstacle.ino`: Kode untuk penghindaran rintangan.
 
 ## Galeri
-![Diagram](images/diagram.png)
-![Prototype](images/prototype.jpg)
+![Diagram](images/diagram.jpg)
+![Prototype](images/prototype.png)
 ![Flight Test](images/flight_test.gif)
 
 ## Lisensi
