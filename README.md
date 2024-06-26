@@ -42,7 +42,7 @@ Pesawat RC otomatis untuk pengintaian dengan fitur canggih seperti navigasi GPS,
 ## Galeri
 ![Diagram](images/diagram.png)
 ![Prototype](images/prototype.jpg)
-![Flight Test](images/flight_test.jpg)
+![Flight Test](images/flight_test.gif)
 
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
